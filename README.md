@@ -1,4 +1,4 @@
-<h1>Hello! Im Pedro. Welcome to my profile! </h1>
+<h1>Hello! Im Pedro Ferrari. Welcome to my profile! </h1>
 <br/>
 <h2>At the moment</h2>
 🎓 I am a software engieneering student at FIAP
